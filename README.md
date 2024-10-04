@@ -39,7 +39,9 @@ To set up the project locally, follow these steps:
    git clone https://github.com/yourusername/college-finder-website.git
    cd college-finder-website
 
+### Adjusted Links
+If you'd like the links to be more visually appealing while still functioning as hyperlinks, you can format them as follows:
 
-# Colleage_Finder website hosting link: https://sage-brigadeiros-6d074a.netlify.app
+- Live Demo: [College Finder Website](https://sage-brigadeiros-6d074a.netlify.app)
+- Presentation: [Project Presentation](https://www.canva.com/design/DAFi9NwpJfY/Mo0R8184z0AqZxKrsebn_w/edit?utm_content=DAFi9NwpJfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# Presentation link : https://www.canva.com/design/DAFi9NwpJfY/Mo0R8184z0AqZxKrsebn_w/edit?utm_content=DAFi9NwpJfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
